@@ -63,6 +63,7 @@ AI 技术浪潮正席卷各行各业，在创意和产品领域展现出巨大�
 
 - [Graphic_Design（平面设计 / 视觉传达）](docs/casebook/Graphic_Design)
   - [AI协助品牌设计：基于双钻模型的实战指南 系列一：调研框架](docs/casebook/Graphic_Design/Brand_Design_with_AI/Brand_Design_with_AI_1.md) @散步
+  - [国风动态海报制作指南](docs/casebook/Graphic_Design/Motion_Poster/Motion_Poster.md) @李修齐
 
 - [UI/UX_Design（用户界面设计 / 用户体验设计）](docs/casebook/UI_UX_Design)
   - [利用 Cursor + MCP 实现 Figma 设计原型图的代码自动化生成](docs/casebook/UI_UX_Design/MCP：figma%20to%20cursor/figma_to_cursor.md) @郭佳宇
@@ -71,6 +72,7 @@ AI 技术浪潮正席卷各行各业，在创意和产品领域展现出巨大�
   - [基于Deepseek和豆包、即梦的视频创作教程](docs/casebook/Video_Production/CyberNezha_video_0501_wenxin/CyberNezha_video_0501_wenxin.md) @温鑫
   - [即梦像素风图片+视频生成教程](docs/casebook/Video_Production/Pixel%20-%20Style%20Image%20%2B%20Video%20Generation%20by%20JimengTutorial/Pixel%20-%20Style%20Image%20%2B%20Video%20Generation%20by%20JimengTutorial.md) @郭佳宇
   - [脚本 + 分镜 + 配音 + 画面 = 文生视频全流程深度解析](docs/casebook/Video_Production/Text_to_Video_Full_Process_Script_Storyboard_VO_Visuals/Text_to_Video_Full_Process_Script_Storyboard_VO_Visuals.md) @李修平 
+  - [播客全流程：如何从0到1打造属于你的电台？](docs/casebook/Video_Production/Podcast_Full_Process/Podcast_Full_Process.md) @李修齐
 ## 项目贡献者
 
 感谢每一位贡献者付出的努力，谢谢你们让这个教程变的更好！
