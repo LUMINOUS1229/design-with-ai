@@ -87,7 +87,7 @@ AI 技术浪潮正席卷各行各业，在创意和产品领域展现出巨大�
 - 温鑫 (哈尔滨工业大学经管学院)
 - 郭佳宇（哈尔滨工业大学人文社科学部）
 - 李修平（体验设计师｜AIGC创作者｜清华美院校友）
-
+- 李修齐（西安美院校友｜Goldsmiths University of London）
 <div align=center style="margin-top: 30px;">
   <a href="https://github.com/datawhalechina/design-with-ai/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=datawhalechina/design-with-ai" />
